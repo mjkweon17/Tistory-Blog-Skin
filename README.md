@@ -11,10 +11,7 @@
 ### v1.0.0 (2023-11-17)
 
 - 초기 블로그 스킨으로 티스토리의 기본 제공 스킨인 Book Club 선택
-
-
-
-
+- [로고 변경](https://github.com/mjkweon17/Tistory-Blog-Skin/issues/1)
 
 ## 기타
 
