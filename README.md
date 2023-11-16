@@ -13,10 +13,10 @@
 - 초기 블로그 스킨으로 티스토리의 기본 제공 스킨인 Book Club 선택
 - [로고 변경](https://github.com/mjkweon17/Tistory-Blog-Skin/issues/1)
 - [테마 컬러 수정](https://github.com/mjkweon17/Tistory-Blog-Skin/issues/3)
+- [post-cover 및 제목 수정](https://github.com/mjkweon17/Tistory-Blog-Skin/issues/4)
 
 
 ## 변경할 내역
-- post-cover image 어둡게해서 제목 글씨 더 잘 보이도록
 - post-cover 높이 수정
 - 본문 제목 글씨 두껍게 하기
 - 본문의 가독성 높이기
