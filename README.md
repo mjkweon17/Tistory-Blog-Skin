@@ -12,6 +12,7 @@
 
 - 초기 블로그 스킨으로 티스토리의 기본 제공 스킨인 Book Club 선택
 - [로고 변경](https://github.com/mjkweon17/Tistory-Blog-Skin/issues/1)
+- [테마 컬러 수정](https://github.com/mjkweon17/Tistory-Blog-Skin/issues/3)
 
 ## 기타
 
