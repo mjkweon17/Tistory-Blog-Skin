@@ -14,6 +14,16 @@
 - [로고 변경](https://github.com/mjkweon17/Tistory-Blog-Skin/issues/1)
 - [테마 컬러 수정](https://github.com/mjkweon17/Tistory-Blog-Skin/issues/3)
 
+
+## 변경할 내역
+- post-cover image 어둡게해서 제목 글씨 더 잘 보이도록
+- post-cover 높이 수정
+- 본문 제목 글씨 두껍게 하기
+- 본문의 가독성 높이기
+- 본문에서 nested list 사용 시 행간 일치하도록
+- 글 목록에서 긴 제목 잘리지 않게 수정
+- 코드 블록 보기 좋게 수정
+
 ## 기타
 
 이 리포지토리는 블로그 관리에 도움을 주기 위해 만들어졌습니다. 블로그 스킨에 대한 새로운 아이디어나 제안이 있으시다면, 언제든지 issues에 남겨주시기 바랍니다.
