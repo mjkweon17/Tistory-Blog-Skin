@@ -3097,3 +3097,48 @@ a:active {text-decoration:none;}
 	max-width: 740px;
 	margin: 30px auto
 }
+
+
+.tt-comment-cont .tt-box-total .tt_txt_g {
+	font-size:14px;
+}
+.tt-comment-cont .tt-box-total .tt_num_g {
+	font-size:14px;
+	color:#777;
+}
+.tt-comment-cont .tt-wrap-cmt .tt-link-user {
+	font-size:14px;
+}
+.tt-comment-cont .tt-wrap-cmt .tt_desc {
+	font-size:14px;
+	color:#555;
+}
+.tt-comment-cont .tt-txt-mention {
+	color:#555;
+}
+.tt-comment-cont .tt-btn_register {
+	width:100px;
+	height:36px;
+	background-color:#333;
+	font-size:14px;
+	color:#fff;
+	border-radius:0;
+	border-color:#333;
+}
+.tt-comment-cont .tt-btn_register:hover {
+	background-color:#04BEB8;
+	border-color:#04BEB8;   
+}
+.tt-comment-cont .tt-btn_register:focus {
+	background-color:#04BEB8;
+	border-color:#04BEB8;   
+}
+.my_edit .ico_more {
+	fill: #fff !important;
+}
+
+@media screen and (max-width: 767px){
+	.tt-comments-wrap {
+		padding: 0 24px;
+	}
+}
